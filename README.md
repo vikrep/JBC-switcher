@@ -18,4 +18,4 @@ JBC soldering station manual tools switcher
 
 ![Front](https://github.com/vikrep/JBC-switcher/blob/assets/IMG_6731.jpeg)
 
-![Back] (https://github.com/vikrep/JBC-switcher/blob/assets/IMG_6732.jpeg)
+![Back](https://github.com/vikrep/JBC-switcher/blob/assets/IMG_6732.jpeg)
