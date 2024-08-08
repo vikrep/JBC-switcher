@@ -13,5 +13,5 @@ JBC soldering station manual tools switcher
 1. Нет автоматического определения снятой с подставки ручки.
 2. Нет четвертого канала, на который можно подлючить термо-пинцет.
 
-![Схема проекта](https://github.com/vikrep/JBC-switcher/blob/main/Schematic.pdf)
+![Schematic](https://raw.githubusercontent.com/vikrep/JBC-switcher/94938ac91f93a56fd86ea942aaacd7924cd24e55/img.png)
 
